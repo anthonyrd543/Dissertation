@@ -1,0 +1,2 @@
+,model_layers,batch_size,learning_rate,model_embedding_size,model_linear_dropout_rate,model_embedding_dropout_rate,model_dense_neurons,feature_size,has_edge_info,Best Loss
+0,0,2,64,0.000986,512,0.021133,0.148577,64,1016,False,0.212811
